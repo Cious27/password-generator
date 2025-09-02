@@ -35,8 +35,3 @@ function generatePassword(length, strength) {
 
 // Export the function for testing
 module.exports = generatePassword;
-
-
-
-
-feat: Add password generator function
